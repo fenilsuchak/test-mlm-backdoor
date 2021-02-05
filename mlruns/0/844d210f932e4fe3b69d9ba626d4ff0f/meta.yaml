@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ptah_old/Desktop/backdoor_implementation/mlruns/0/844d210f932e4fe3b69d9ba626d4ff0f/artifacts
+end_time: 1612458230961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 844d210f932e4fe3b69d9ba626d4ff0f
+run_uuid: 844d210f932e4fe3b69d9ba626d4ff0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1612458223923
+status: 3
+tags: []
+user_id: ptah_old
